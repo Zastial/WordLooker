@@ -1,6 +1,5 @@
 
 import random
-from re import A
 import unidecode
 import string
 
